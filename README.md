@@ -1,4 +1,4 @@
-# Proyecto-HTML-y-CSS-desde-CERO
+# Proyecto Final de Curso HTML y CSS desde CERO
 
 Objetivo del Proyecto
 Debes diseñar una página de presentación para un restaurante (sin funcionalidades complejas, solo informativa) que sirva para mostrar en tu portfolio y prepararte para el examen final. Se permite el uso de plantillas o elementos de internet.
